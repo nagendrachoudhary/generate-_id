@@ -1,5 +1,5 @@
 {
-  "name": "narenchoudhary/generateid",
+  "name": "@narenchoudhary/generateid",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
