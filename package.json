@@ -2,15 +2,10 @@
   "name": "@narenchoudhary/generateid",
   "version": "1.0.5",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@narenchoudhary/generateid": "^1.0.0",
-    "generate-id": "^2.0.1"
-  },
   "description": ""
 }

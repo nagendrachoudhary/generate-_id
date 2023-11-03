@@ -39,4 +39,4 @@ function key(params){
     
   
 }
-module.exports={key}
+module.exports = { key };
