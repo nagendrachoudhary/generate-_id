@@ -11,6 +11,5 @@
     "@narenchoudhary/generateid": "^1.0.0",
     "generate-id": "^2.0.1"
   },
-  "description": "",
-  "type": "module"
+  "description": ""
 }
