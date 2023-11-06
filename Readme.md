@@ -25,5 +25,5 @@ const customOptions = {
 };
 
 // Generate a random ID with custom options
-const customID = generateID(customOptions);
+const customID = generateID.key(customOptions);
 console.log(customID);
